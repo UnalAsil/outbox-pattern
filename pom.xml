@@ -18,6 +18,7 @@
     <modules>
         <module>food-order</module>
         <module>food-delivery</module>
+        <module>food-base</module>
     </modules>
 
     <dependencies>

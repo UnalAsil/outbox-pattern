@@ -9,15 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>food-order</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>unalasil.example</groupId>
-            <artifactId>food-base</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
+    <artifactId>food-base</artifactId>
 
 
 </project>
