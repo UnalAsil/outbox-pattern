@@ -7,5 +7,5 @@ import outbox.pattern.food.order.model.FoodOrderOutbox;
 public interface EventPublisher {
 
     //TODO->Could be generic event publisher.
-    void publish(FoodOrderOutbox foodOrderOutbox);
+    void publish(FoodOrderOutbox foodOrderOutbox, EventCallback eventCallback);
 }
